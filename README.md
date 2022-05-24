@@ -1,2 +1,2 @@
-# QGIS-Map1
+# Map1
 Map of Area of interest1
